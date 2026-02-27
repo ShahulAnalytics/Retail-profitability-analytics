@@ -1,5 +1,3 @@
-Retail Profitability and Margin Optimization Analytics
-
 Overview
 This project develops a structured retail analytics framework focused on revenue performance, margin optimization, and SKU level profitability. The objective is to simulate a real world business intelligence system used by retail decision makers.
 
@@ -34,3 +32,5 @@ Time series revenue trend analysis
 
 Project Status
 Data model and KPI logic implemented. SQL analytics layer completed.
+Commit message:
+Improve README formatting with professional markdown structure
